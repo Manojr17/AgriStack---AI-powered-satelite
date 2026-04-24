@@ -244,6 +244,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
+For support, email manoravi39@gmail.com or open an issue in the GitHub repository.
+<a href="https://instagram.com/_.manoj_.09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.manoj_.09_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manoj0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj0902" height="30" width="40" /></a>
+---
 
 ## 📄 License
 
